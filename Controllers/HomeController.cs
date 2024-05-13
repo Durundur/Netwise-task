@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using netwise_task.Models;
 using netwise_task.Services;
-using System.Diagnostics;
 
 namespace netwise_task.Controllers
 {
